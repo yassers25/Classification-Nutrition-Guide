@@ -34,6 +34,17 @@ The Agricultural Products Analysis Platform is built using cutting-edge technolo
 - **OpenCV**: A computer vision library used for image and video processing, enabling the platform to handle video inputs seamlessly.
 - **Pre-trained Deep Learning Models**: VGG16, ResNet, and EfficientNet models are used for image classification, all trained on large datasets to provide accurate predictions.
 
+## 📌 Download Pretrained Models
+The .pth model files are not included in this repository due to their large size.
+
+You can download the pretrained models from the following link:
+https://drive.google.com/drive/folders/12PpxrmajiWoE1FQ6LCR1xPjyqI9jd_C8?usp=sharing
+Download Pretrained Models
+
+After downloading the models:
+Navigate to the **Classification-Nutrition-Guide/agricultural_classification/models** folder in your project.
+Place the downloaded .pth model files into the models folder.
+
 ---
 ## How to Use 🎯
 **Classification & Nutrition Guide Usage 📸**
