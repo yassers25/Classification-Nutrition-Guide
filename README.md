@@ -50,7 +50,7 @@ Place the downloaded .pth model files into the models folder.
 
 This project uses the **Fruits Classification Dataset** to train and evaluate classification models. The dataset can be downloaded from Kaggle using the link below:
 
-[Download Fruits Classification Dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
+[Download Fruits Classification Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 
 ### Instructions:
 1. Download the dataset from Kaggle.
