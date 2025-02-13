@@ -63,6 +63,7 @@ The project has the following directory structure:
 
 agricultural-products-analysis/  
 ├── app.py                         # Main Streamlit application file  
+├── requirements.txt               # List of required Python dependencies  
 ├── agricultural_classification/   # Folder for classification models  
 │   └── app/                       # Classification app (Streamlit)  
 ├── Object-Detection-Yolo/         # Folder for YOLO object detection app  
