@@ -46,6 +46,17 @@ Navigate to the **Classification-Nutrition-Guide/agricultural_classification/mod
 Place the downloaded .pth model files into the models folder.
 
 ---
+## Dataset Information 📊
+
+This project uses the **Fruits Classification Dataset** to train and evaluate classification models. The dataset can be downloaded from Kaggle using the link below:
+
+[Download Fruits Classification Dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
+
+### Instructions:
+1. Download the dataset from Kaggle.
+2. Extract the dataset and place the images into the **`Classification-Nutrition-Guide/agricultural_classification/`** directory.
+
+---
 ## How to Use 🎯
 **Classification & Nutrition Guide Usage 📸**
 From the sidebar, click on Classification & Nutrition Guide.
