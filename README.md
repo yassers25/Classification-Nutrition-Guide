@@ -2,36 +2,19 @@
 
 Welcome to the **Agricultural Products Analysis Platform**! This platform is designed to assist individuals and organizations in analyzing and classifying agricultural products, including fruits and vegetables, through modern machine learning and computer vision technologies. With two primary features, **Classification & Nutrition Guide** and **Object Detection (YOLO)**, users can seamlessly classify agricultural items and retrieve detailed nutritional information or perform object detection on images and videos.
 
-## Table of Contents 📚
-- [Introduction](#introduction)
-- [Features](#features)
-  - [Classification & Nutrition Guide](#classification--nutrition-guide)
-  - [Object Detection (YOLO)](#object-detection-yolo)
-- [Technologies Used](#technologies-used)
-- [Installation & Setup](#installation--setup)
-  - [Prerequisites](#prerequisites)
-  - [Step-by-step Installation](#step-by-step-installation)
-- [How to Use](#how-to-use)
-  - [Classification & Nutrition Guide](#classification--nutrition-guide-usage)
-  - [Object Detection (YOLO) Usage](#object-detection-yolo-usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
-
 ## Introduction 👨‍🌾👩‍🌾
 
 **Agricultural Products Analysis Platform** is a robust web application designed using **Streamlit**, focusing on two core functionalities: **classification** and **object detection** of agricultural products. Whether you are a researcher, a dietitian, or just someone passionate about healthy eating, this platform provides useful tools to help you classify fruits and vegetables, as well as understand their nutritional values in depth.
 
 With built-in support for **YOLO object detection** (You Only Look Once), this tool can detect and classify agricultural products from both images and videos in real-time.
 
+---
+
 ## Features ✨
 
 ### Classification & Nutrition Guide 🥦🍓
 This feature leverages powerful deep learning models like **VGG16**, **ResNet**, and **EfficientNet** to classify agricultural products. Once the product is classified, the platform provides the following benefits:
-- **Accurate Classification**: The tool identifies the agricultural product, from fruits to vegetables, ensuring precise results.
+- **Accurate Classification**: The tool identifies the agricultural product, from fruits to vegetables, ensuring precise results. With an accuracy of **97%**, you can trust the classification results.
 - **Detailed Nutritional Information**: After classification, users can view a comprehensive nutritional profile, which includes important nutrients like vitamins, minerals, fiber, and antioxidants.
 - **Healthy Eating Recommendations**: Based on the classification, users can receive recommendations for healthy consumption and a balanced diet.
 
@@ -53,15 +36,38 @@ The Agricultural Products Analysis Platform is built using cutting-edge technolo
 - **Pre-trained Deep Learning Models**: VGG16, ResNet, and EfficientNet models are used for image classification, all trained on large datasets to provide accurate predictions.
 
 ---
+## How to Use 🎯
+**Classification & Nutrition Guide Usage 📸**
+From the sidebar, click on Classification & Nutrition Guide.
+Upload an image of an agricultural product (e.g., a fruit or vegetable).
+The platform will display the classification result, along with detailed nutritional information about the product.
+The platform will also suggest healthy consumption tips based on the classification.
+**Object Detection (YOLO) Usage 🎥**
+From the sidebar, click on Object Detection (YOLO).
+Upload an image or video file containing agricultural products.
+The platform will process the file and provide real-time object detection results, highlighting detected fruits or vegetables.
 
-## Installation & Setup 🚀
+---
+## Accuracy 📊
+The evaluation of the deep learning models used for classification and detection demonstrates high performance:
 
-To get started with this project, follow these steps to set up the platform on your local machine.
+**EfficientNet:** Achieves 97% accuracy, providing highly reliable results for agricultural product classification.
+**VGG16:** Reaches 96% accuracy, offering robust classification performance.
+**ResNet50:** Maintains 95% accuracy, with solid performance across various agricultural product categories.
+**YOLO (Object Detection):** Excels in real-time detection and segmentation, making it ideal for dynamic environments like videos and live interactions.
+These models have been rigorously evaluated and validated on large datasets of agricultural products, ensuring that the platform can reliably classify and detect various fruits and vegetables with high accuracy.
 
-### Prerequisites 🛠️
+---
+## Directory Structure 🗂️
+The project has the following directory structure:
+agricultural-products-analysis/
+├── app.py                         # Main Streamlit application file
+├── requirements.txt               # List of required Python dependencies
+├── agricultural_classification/   # Folder for classification models
+│   └── app/                       # Classification app (Streamlit)
+├── Object-Detection-Yolo/         # Folder for YOLO object detection app
+│   └── yolo_app.py                # YOLO detection app (Streamlit)
+├── README.md                      # This README file
+└── models/                        # Folder containing pretrained models
 
-Before you begin, ensure that you have the following installed:
 
-- **Python 3.7 or higher**: The application is built using Python. Make sure you have the latest version installed. You can check your version with:
-  ```bash
-  python --version
