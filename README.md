@@ -62,9 +62,13 @@ The platform will process the file and provide real-time object detection result
 The evaluation of the deep learning models used for classification and detection demonstrates high performance:
 
 **EfficientNet:** Achieves 97% accuracy, providing highly reliable results for agricultural product classification.
+
 **VGG16:** Reaches 96% accuracy, offering robust classification performance.
+
 **ResNet50:** Maintains 95% accuracy, with solid performance across various agricultural product categories.
+
 **YOLO (Object Detection):** Excels in real-time detection and segmentation, making it ideal for dynamic environments like videos and live interactions.
+
 These models have been rigorously evaluated and validated on large datasets of agricultural products, ensuring that the platform can reliably classify and detect various fruits and vegetables with high accuracy.
 
 ---
