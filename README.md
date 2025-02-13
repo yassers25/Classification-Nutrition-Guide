@@ -24,7 +24,20 @@ Powered by **YOLO (You Only Look Once)**, the **Object Detection** feature allow
 - **Fast Processing**: Thanks to YOLO's advanced architecture, detection results are provided in real-time, ensuring a fast user experience.
 
 ---
+## Image Gallery 🖼️
+Here are some images showcasing the features of the platform:
 
+![Yolo 2](Yolo 2.png)
+![Yolo 3](assets/images/Yolo 3.png)
+![Yolo 4](assets/images/yolo 4.png)
+![Yolo](assets/images/Yolo.png)
+![Classifier - Nutrition Guide 2](assets/images/Classifier - Nutrition Guide 2.png)
+![Classifier - Nutrition Guide 3](assets/images/Classifier - Nutrition Guide 3.png)
+![Classifier - Nutrition Guide 4](assets/images/Classifier - Nutrition Guide 4.png)
+![Classifier - Nutrition Guide](assets/images/Classifier - Nutrition Guide.png)
+![Home Page](assets/images/home page.png)
+
+--
 ## Technologies Used ⚙️
 
 The Agricultural Products Analysis Platform is built using cutting-edge technologies to ensure performance, scalability, and ease of use. Here's an overview of the technologies used:
