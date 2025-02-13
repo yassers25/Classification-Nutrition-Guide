@@ -4,8 +4,7 @@ Welcome to the **Agricultural Products Analysis Platform**! This platform is des
 
 ## Introduction 👨‍🌾👩‍🌾
 
-**Agricultural Products Analysis Platform** is a robust web application designed using **Streamlit**, focusing on two core functionalities: **classification** and **object detection** of agricultural products. Whether you are a researcher, a dietitian, or just someone passionate about healthy eating, this platform provides useful tools to help you classify fruits and vegetables, as well as understand their nutritional values in depth.
-
+**Agricultural Products Analysis Platform** is a robust web application designed using **Streamlit**, focusing on two core functionalities: **classification** and **object detection** of agricultural products. 
 With built-in support for **YOLO object detection** (You Only Look Once), this tool can detect and classify agricultural products from both images and videos in real-time.
 
 ---
@@ -59,15 +58,17 @@ These models have been rigorously evaluated and validated on large datasets of a
 
 ---
 ## Directory Structure 🗂️
+
 The project has the following directory structure:
-agricultural-products-analysis/
-├── app.py                         # Main Streamlit application file
-├── requirements.txt               # List of required Python dependencies
-├── agricultural_classification/   # Folder for classification models
-│   └── app/                       # Classification app (Streamlit)
-├── Object-Detection-Yolo/         # Folder for YOLO object detection app
-│   └── yolo_app.py                # YOLO detection app (Streamlit)
-├── README.md                      # This README file
+
+agricultural-products-analysis/  
+├── app.py                         # Main Streamlit application file  
+├── requirements.txt               # List of required Python dependencies  
+├── agricultural_classification/   # Folder for classification models  
+│   └── app/                       # Classification app (Streamlit)  
+├── Object-Detection-Yolo/         # Folder for YOLO object detection app  
+│   └── yolo_app.py                # YOLO detection app (Streamlit)  
+├── README.md                      # This README file  
 └── models/                        # Folder containing pretrained models
 
 
