@@ -52,6 +52,7 @@ From the sidebar, click on Classification & Nutrition Guide.
 Upload an image of an agricultural product (e.g., a fruit or vegetable).
 The platform will display the classification result, along with detailed nutritional information about the product.
 The platform will also suggest healthy consumption tips based on the classification.
+
 **Object Detection (YOLO) Usage 🎥**
 From the sidebar, click on Object Detection (YOLO).
 Upload an image or video file containing agricultural products.
