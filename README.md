@@ -25,17 +25,17 @@ Powered by **YOLO (You Only Look Once)**, the **Object Detection** feature allow
 
 ---
 ## Image Gallery 🖼️
+
 Here are some images showcasing the features of the platform:
 
-![Yolo 2](Yolo 2.png)
-![Yolo 3](assets/images/Yolo 3.png)
-![Yolo 4](assets/images/yolo 4.png)
-![Yolo](assets/images/Yolo.png)
-![Classifier - Nutrition Guide 2](assets/images/Classifier - Nutrition Guide 2.png)
-![Classifier - Nutrition Guide 3](assets/images/Classifier - Nutrition Guide 3.png)
-![Classifier - Nutrition Guide 4](assets/images/Classifier - Nutrition Guide 4.png)
-![Classifier - Nutrition Guide](assets/images/Classifier - Nutrition Guide.png)
-![Home Page](assets/images/home page.png)
+![Yolo 2](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Yolo%202.png?raw=true)
+![Yolo 3](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Yolo%203.png?raw=true)
+![Yolo 4](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/yolo%204.png?raw=true)
+![Yolo](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Yolo.png?raw=true)
+![Classifier - Nutrition Guide 2](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Classifier%20-%20Nutrition%20Guide%202.png?raw=true)
+![Classifier - Nutrition Guide 3](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Classifier%20-%20Nutrition%20Guide%203.png?raw=true)
+![Classifier - Nutrition Guide 4](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Classifier%20-%20Nutrition%20Guide%204.png?raw=true)
+![Classifier - Nutrition Guide](https://github.com/yassers25/Classification-Nutrition-Guide/blob/main/Classifier%20-%20Nutrition%20Guide.png?raw=true)
 
 --
 ## Technologies Used ⚙️
