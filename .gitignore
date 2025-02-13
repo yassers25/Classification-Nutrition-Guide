@@ -1,0 +1,2 @@
+# Ignorer les fichiers de modèles trop volumineux
+agricultural_classification/models/*.pth
