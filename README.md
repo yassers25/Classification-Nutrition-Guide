@@ -38,7 +38,7 @@ The Agricultural Products Analysis Platform is built using cutting-edge technolo
 The .pth model files are not included in this repository due to their large size.
 
 You can download the pretrained models from the following link:
-https://drive.google.com/drive/folders/12PpxrmajiWoE1FQ6LCR1xPjyqI9jd_C8?usp=sharing
+[Google Drive Link](https://drive.google.com/drive/folders/12PpxrmajiWoE1FQ6LCR1xPjyqI9jd_C8?usp=sharing)
 Download Pretrained Models
 
 After downloading the models:
