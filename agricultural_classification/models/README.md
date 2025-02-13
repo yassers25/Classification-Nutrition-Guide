@@ -1,3 +1,3 @@
 ## 📌 Download Pretrained Models  
 The `.pth` model files are not included in this repository due to their size.  
-You can download them here: [Download Fruits Classification Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+You can download them here: [Google Drive Link](https://drive.google.com/drive/folders/12PpxrmajiWoE1FQ6LCR1xPjyqI9jd_C8?usp=sharing)
